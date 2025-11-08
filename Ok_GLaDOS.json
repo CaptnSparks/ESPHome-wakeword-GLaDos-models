@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Hey Glados",
+  "wake_word": "Glados",
   "author": "unknown",
   "website": "",
   "model": "Ok_GLaDOS.tflite",
